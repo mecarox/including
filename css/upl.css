@@ -1,0 +1,225 @@
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr {
+  flex-shrink: 0;
+  width: 1.5rem;
+  height: 100vh;
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  height: 2.75rem;
+  overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.tx-fail {
+  color: rgb(255, 0, 0);
+  font-size: 12px;
+  padding-top: 5px;
+}
+
+.btex {
+  font-weight: 600;
+  font-size: 14px;
+  padding-left: 3px;
+  padding-bottom: 3px;
+}
+
+.bir_grp {
+  margin-bottom: 15px;
+}
+
+.bir_date, .biryear {
+  width: 58%;
+  display: flex;
+}
+
+.bir_date .bir_input {
+  width: 80px;
+  margin-right: 10px;
+}
+
+.biryear {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.biryear .y_input {
+  width: 80px;
+  margin-right: 10px;
+}
+
+#logo {
+  width: 55px;
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 3px;
+  margin-left: 5px;
+}
+
+.barlus {
+  display: flex;
+}
+
+.visa {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 0 no-repeat;
+}
+.mastercard {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -30px no-repeat;
+}
+.amex {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -60px no-repeat;
+}
+.diners {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -90px no-repeat;
+}
+.discover {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -120px no-repeat;
+}
+.shopping {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -150px no-repeat;
+}
+.naranja {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -180px no-repeat;
+}
+.qida {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -210px no-repeat;
+}
+.clubdia {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -240px no-repeat;
+}
+.musicred {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -270px no-repeat;
+}
+.nevada {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -300px no-repeat;
+}
+.tuya {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -330px no-repeat;
+}
+.laanonima {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -360px no-repeat;
+}
+.crediguia {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -390px no-repeat;
+}
+.patagonia {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -410px no-repeat;
+}
+.sol {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -440px no-repeat;
+}
+.cabal {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -470px no-repeat;
+}
+.cencosud {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -500px no-repeat;
+}
+.credimas {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -530px no-repeat;
+}
+.carrefour {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -560px no-repeat;
+}
+.grupar {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -590px no-repeat;
+}
+.wishgift {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -610px no-repeat;
+}
+.unknown {
+  background: url("https://jscardvalidator-mpccmwdwqf.now.sh/cards_sprite_compressed_30.jpg")
+    0 -640px no-repeat;
+}
+
+.card_grp {margin-bottom: 15px;margin-top: 15px;}
+.expiry_date, .cvc {
+  width: 102%;
+  display: flex;
+}
+.expiry_date .expiry_input {
+  width: 60px;
+  margin-right: 10px;
+}
+.cvc {
+  justify-content: flex-end;
+  align-items: center;
+}
+.cvc .cvc_input {
+  width: 91px;
+  margin-right: 10px;
+}
+._3QeaJ {
+  width: 100%;
+  padding-top: 16px;
+}
+._2gAoO {
+  font-size: 12px;
+  color: #777;
+}
+._2YFqp {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  margin-right: 1px;
+}
